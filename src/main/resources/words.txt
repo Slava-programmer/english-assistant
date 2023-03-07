@@ -1,45 +1,124 @@
-allow - позволять
-however - однако
+state - состояние
+behavior - поведение
 identifying - идентификация, определение
-separate - отдельный
-tell - рассказывать
-harry - спешить
-immediate area - ближайшее окружение
+programming - программирование
 observe - наблюдать
-crash - ломать
-hiding - сокрытие
-hit - ударять
-hurriedly - поспешно
-holidays - каникулы
-responsibility - ответственность
-provides - предоставлять
+immediate area - ближайшее окружение
+perform - выполнять
 observations - наблюдения
-define - определять
-lock - закрывать
-claim - заявлять
+similar - схожий
+operate - функционировать, действовать
+hiding - сокрытие
+dirty - грязный
+dirt - грязь
+crash - ломать
+break - ломать
 speak - говорить
 talk - разговаривать
-state - состояние
-cinema - кинотеатр
-behavior - поведение
-blow - дуть
-just - просто
-programming - программирование
-notice - замечать
-dirty - грязный
-similar - схожий
-abroad - заграница
-commonly - обычно
-break - ломать
-perform - выполнять
-dirt - грязь
+tell - рассказывать
 say - сказать
-accept - принимать
-blueprint - чертеж
-appear - отображать
-operate - функционировать, действовать
-provide - предоставлять
 look for - искать
-interaction - взаимодействие
-complete - завершать
+abroad - заграница
 wall - стена
+interaction - взаимодействие
+hit - ударять
+lock - закрывать
+blow - дуть
+hurriedly - поспешно
+harry - спешить
+provides - предоставлять
+responsibility  - ответственность
+separate - отдельный
+notice - замечать
+complete - полный
+complete - завершать
+blueprint - чертеж
+commonly - обычно
+allow - позволять
+however - однако
+appear - отображать
+provide - предоставлять
+claim - заявлять
+define - определять
+although - несмотря на, хотя
+that's why - вот почему
+actually - на самом деле
+whenever - всякий раз когда
+however - однако
+eventually - в конце концов
+so far - до сих пор, пока что
+in this case - в этом случае
+in this way - таким образом
+so that - так что
+during - в течение, на протяжении
+in addition - в дополнении
+therefore - следовательно
+everthough - даже несмотря на что-то
+despite - несмотря на, невзирая на
+whereas - в то время как
+due tp somebody/something - из-за кого-то, чего-то
+unfortunately - к сожалению
+so - ну, таким образом, поэтому
+managed to - справляться с чем-то
+allow - позволять, разрешать
+pretty - хорошенький, почти
+punish - наказывать
+punishment - наказание
+success - успешный
+expect - ожидать
+behave - вести себя
+behavior - поведение
+differ - отличаться
+different - различный, разный
+difference - разница
+request - запрос, просьба, просить
+obligation - обязательство
+accurance - точность
+alike - одинаково
+difinitly - определенно
+mostly - в оснвоном
+similary - аналогично
+exhinbition -  выставка
+weak - слабый
+got it - понял
+sure - уверен
+bored. - скучный
+otherwise  - в ином случае
+suppose - предполагать
+supposed - должен был
+exciting - захватывающий, волнующий
+explain - объяснять
+exhausted - выдохся, выдохнувшийся
+great - бухгалтер
+architect - архитектор
+civil servant - гос.рабочий
+at last - наконец
+for ages - долго, куча лет
+incredible - невероятно
+destroy - разрушать
+solve - решать
+vocation - отпуск
+express - выражать
+attitude - отношения
+occupation - занятость
+
+burglar alarm - сигнализация
+approach - - подход
+irresistible - идеальный
+stolen - украдено
+left - оставлять
+urgent - срочно
+realize - понимать
+be able to - получаться
+get lost - потеряться
+assume - считать
+splendid - великолепный
+so much - так много
+бизнес
+business trips-командировка
+by the accident - по случайности
+
+lent - одолжить
+attentive - внимательный
+competition - соревнования
+workshop- мастерская

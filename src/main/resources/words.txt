@@ -1,124 +1,119 @@
-state - состояние
-behavior - поведение
-identifying - идентификация, определение
-programming - программирование
-observe - наблюдать
-immediate area - ближайшее окружение
-perform - выполнять
-observations - наблюдения
-similar - схожий
-operate - функционировать, действовать
-hiding - сокрытие
-dirty - грязный
-dirt - грязь
-crash - ломать
-break - ломать
-speak - говорить
-talk - разговаривать
-tell - рассказывать
-say - сказать
-look for - искать
-abroad - заграница
-wall - стена
-interaction - взаимодействие
-hit - ударять
-lock - закрывать
-blow - дуть
-hurriedly - поспешно
-harry - спешить
-provides - предоставлять
-responsibility  - ответственность
-separate - отдельный
-notice - замечать
-complete - полный
-complete - завершать
-blueprint - чертеж
-commonly - обычно
-allow - позволять
-however - однако
-appear - отображать
-provide - предоставлять
-claim - заявлять
-define - определять
-although - несмотря на, хотя
-that's why - вот почему
-actually - на самом деле
-whenever - всякий раз когда
-however - однако
-eventually - в конце концов
-so far - до сих пор, пока что
-in this case - в этом случае
-in this way - таким образом
-so that - так что
-during - в течение, на протяжении
-in addition - в дополнении
-therefore - следовательно
-everthough - даже несмотря на что-то
-despite - несмотря на, невзирая на
-whereas - в то время как
-due tp somebody/something - из-за кого-то, чего-то
-unfortunately - к сожалению
-so - ну, таким образом, поэтому
-managed to - справляться с чем-то
-allow - позволять, разрешать
-pretty - хорошенький, почти
-punish - наказывать
-punishment - наказание
-success - успешный
-expect - ожидать
-behave - вести себя
-behavior - поведение
-differ - отличаться
-different - различный, разный
-difference - разница
-request - запрос, просьба, просить
-obligation - обязательство
-accurance - точность
-alike - одинаково
-difinitly - определенно
-mostly - в оснвоном
-similary - аналогично
-exhinbition -  выставка
-weak - слабый
-got it - понял
-sure - уверен
-bored. - скучный
-otherwise  - в ином случае
-suppose - предполагать
-supposed - должен был
-exciting - захватывающий, волнующий
 explain - объяснять
-exhausted - выдохся, выдохнувшийся
-great - бухгалтер
-architect - архитектор
-civil servant - гос.рабочий
-at last - наконец
-for ages - долго, куча лет
-incredible - невероятно
-destroy - разрушать
-solve - решать
-vocation - отпуск
-express - выражать
-attitude - отношения
+mostly - в основном
+in this way - таким образом
 occupation - занятость
-
-burglar alarm - сигнализация
-approach - - подход
-irresistible - идеальный
-stolen - украдено
-left - оставлять
-urgent - срочно
-realize - понимать
-be able to - получаться
-get lost - потеряться
-assume - считать
+exhausted - выдохся, ворохнувшийся
 splendid - великолепный
-so much - так много
-бизнес
-business trips-командировка
-by the accident - по случайности
-
-lent - одолжить
 attentive - внимательный
 competition - соревнования
-workshop- мастерская
+during - в течение, на протяжении
+accurance - точность
+approach - 
+crash - ломать
+hiding - сокрытие
+punish - наказывать
+graduate - окончить учебное заведение
+lock - закрывать
+state - состояние
+whereas - в то время как
+due tp somebody/something - из
+similar - схожий
+sure - уверен
+so that - так что
+destroy - разрушать
+got it - понял
+managed to - справляться с чем
+operate - функционировать, действовать
+provide - предоставлять
+left - оставлять
+business trips - командировка
+difference - разница
+so far - до сих пор, пока что
+attitude - отношения
+harry - спешить
+architect - архитектор
+at last - наконец
+eventually - в конце концов
+weak - слабый
+for ages - долго, куча лет
+responsibility - ответственность
+speak - говорить
+in addition - в дополнении
+behavior - поведение
+so - ну, таким образом, поэтому
+urgent - срочно
+in this case - в этом случае
+dirty - грязный
+similary - аналогично
+by the accident - по случайности
+break - ломать
+unfortunately - к сожалению
+great - бухгалтер
+actually - на самом деле
+vocation - отпуск
+appear - отображать
+expect - ожидать
+punishment - наказание
+exciting - захватывающий, волнующий
+complete - завершать
+separate - отдельный
+tell - рассказывать
+express - выражать
+observe - наблюдать
+that's why - вот почему
+hit - ударять
+whenever - всякий раз когда
+everthough - даже несмотря на что
+claim - заявлять
+talk - разговаривать
+blow - дуть
+different - различный, разный
+so much - так много
+programming - программирование
+diffidently - определенно
+realize - понимать
+otherwise - в ином случае
+commonly - обычно
+workshop - мастерская
+dirt - грязь
+suppose - предполагать
+blueprint - чертеж
+success - успешный
+obligation - обязательство
+solve - решать
+supposed - должен был
+therefore - следовательно
+assume - считать
+bored - скучный
+civil servant - гос.рабочий
+allow - позволять, разрешать
+however - однако
+request - запрос, просьба, просить
+identifying - идентификация, определение
+immediate area - ближайшее окружение
+lent - одолжить
+behave - вести себя
+hurriedly - поспешно
+provides - предоставлять
+observations - наблюдения
+cat - кошка
+define - определять
+burglar alarm - сигнализация
+notice - замечать
+exhibition - выставка
+abroad - заграница
+pretty - хорошенький, почти
+perform - выполнять
+incredible - невероятно
+say - сказать
+irresistible - идеальный
+despite - несмотря на, невзирая на
+differ - отличаться
+alike - одинаково
+stolen - украдено
+although - несмотря на, хотя
+look for - искать
+interaction - взаимодействие
+get lost - потеряться
+wall - стена
+be able to - получаться

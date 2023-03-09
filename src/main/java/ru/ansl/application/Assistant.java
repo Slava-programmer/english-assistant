@@ -1,6 +1,7 @@
 package ru.ansl.application;
 
 import ru.ansl.model.Verb;
+import ru.ansl.util.ColorConsole;
 
 import java.util.*;
 
@@ -9,19 +10,17 @@ public class Assistant {
     private static Dictionary dictionary = new Dictionary();
     private static final String lineSep = System.lineSeparator();
 
-    private static final String MENU_MAIN = "\033[93mГЛАВНОЕ МЕНЮ:" + lineSep +
+    private static final String MENU_MAIN = ColorConsole.YELLOW + "ГЛАВНОЕ МЕНЮ:" + lineSep +
             "1. Вывод содержимого словаря" + lineSep +
             "2. Добавление слов" + lineSep +
             "3. Тестирование" + lineSep +
-            "esc. Выход из программы." +
-            "\033[0m";
+            "esc. Выход из программы." + ColorConsole.RESET;
 
-    private static final String MENU_TESTING_PRINT = "\033[93mМЕНЮ СЛОВАРЯ:" + lineSep +
+    private static final String MENU_TESTING_PRINT = ColorConsole.YELLOW + "МЕНЮ СЛОВАРЯ:" + lineSep +
             "1. Русско-английский;" + lineSep +
             "2. English - Russian;" + lineSep +
             "3. Неправильные глаголы;" + lineSep +
-            "0. Выход в главное меню" +
-            "\033[0m";
+            "0. Выход в главное меню" + ColorConsole.RESET;
 
     public Assistant() {
         dictionary.fillDictionary();
@@ -52,21 +51,21 @@ public class Assistant {
         System.out.println(MENU_TESTING_PRINT);
         switch (scanner.nextLine()) {
             case "1":
-                System.out.println("Русско-английский словарь");
+                System.out.println(ColorConsole.BLUE + "Русско-английский словарь" + ColorConsole.RESET);
                 dictionary
                         .getDicRusEng()
                         .entrySet()
                         .forEach(el -> System.out.println(el + " " + el));
                 break;
             case "2":
-                System.out.println("Англо-русский словарь");
+                System.out.println(ColorConsole.BLUE + "Англо-русский словарь" + ColorConsole.RESET);
                 dictionary
                         .getDicEngRus()
                         .entrySet()
                         .forEach(el -> System.out.println(el + " " + el));
                 break;
             case "3":
-                System.out.println("Словарь неправильных глаголов");
+                System.out.println(ColorConsole.BLUE + "Словарь неправильных глаголов" + ColorConsole.RESET);
                 dictionary
                         .getDicIrregularVerbs()
                         .forEach(System.out::println);
@@ -79,7 +78,7 @@ public class Assistant {
     }
 
     private void addWords() {
-        System.out.println("Добавление новых слов");
+        System.out.println(ColorConsole.BLUE + "Добавление новых слов" + ColorConsole.RESET);
         while (true) {
             System.out.println("=".repeat(90));
             System.out.print("Введите слово на английском: ");
@@ -109,15 +108,21 @@ public class Assistant {
 
         switch (scanner.nextLine()) {
             case "1":
-                System.out.println("Тестирование русско-английского перевода");
+                System.out.println(ColorConsole.BLUE +
+                        "Тестирование русско-английского перевода" +
+                        ColorConsole.RESET);
                 getTestingTranslatingWords("rus-eng");
                 break;
             case "2":
-                System.out.println("Тестирование англо-русского перевода");
+                System.out.println(ColorConsole.BLUE +
+                        "Тестирование англо-русского перевода" +
+                        ColorConsole.RESET);
                 getTestingTranslatingWords("eng-rus");
                 break;
             case "3":
-                System.out.println("Тестирование знания неправильных глаголов");
+                System.out.println(ColorConsole.BLUE +
+                        "Тестирование знания неправильных глаголов" +
+                        ColorConsole.RESET);
                 getTestingIrregularVerbs();
                 break;
             case "0":
@@ -138,7 +143,7 @@ public class Assistant {
             if (input.equals("0")) {
                 return;
             }
-            System.out.println("Правильный ответ: " + verb);
+            System.out.println(ColorConsole.GREEN + "Правильный ответ: " + ColorConsole.RESET + verb);
             System.out.println("_".repeat(90));
         }
     }
@@ -166,7 +171,7 @@ public class Assistant {
 
             String input = scanner.nextLine();
 
-            System.out.println("Правильный ответ: " + map.get(keyTMP));
+            System.out.println(ColorConsole.GREEN + "Правильный ответ: " + ColorConsole.RESET + map.get(keyTMP));
             System.out.println("_".repeat(90));
 
             if (input.equals("0")) {

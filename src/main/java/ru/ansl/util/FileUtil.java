@@ -54,7 +54,7 @@ public class FileUtil {
     }
 
     public static void fileOutput(Map<String, String> engRus, String fileName) {
-        String fileNameBackup = "src\\main\\resources\\words_.txt";
+        String fileNameBackup = "C:\\Users\\words_.txt";
         File file = new File(fileName);
         File fileBackup = new File(fileNameBackup);
         if (fileBackup.exists()) {
